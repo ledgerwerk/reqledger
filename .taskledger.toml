@@ -1,7 +1,7 @@
 # Project-local taskledger configuration.
 # This file lives in the source project root.
 config_version = 2
-taskledger_dir = '../taskledger-state/reqledger'
+taskledger_dir = '../ledger/task/reqledger'
 # Stable project identity. Commit this with your source tree.
 project_uuid = "cef739f2-f71b-4966-9fce-e418a86979c9"
 project_name = "reqledger"

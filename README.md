@@ -13,14 +13,14 @@ reports.
 
 ## Scope boundary
 
-| Tool        | Owns                                                        |
-| ----------- | ---------------------------------------------------------- |
-| reqledger   | requirements and acceptance criteria                       |
-| specmason   | behavior specs, mappings, coverage, and evidence           |
-| taskledger  | tasks and task workflow                                    |
-| archledger  | architecture records and ADRs                              |
-| planledger  | implementation plans                                       |
-| wikimason   | wiki content                                              |
+| Tool       | Owns                                             |
+| ---------- | ------------------------------------------------ |
+| reqledger  | requirements and acceptance criteria             |
+| specmason  | behavior specs, mappings, coverage, and evidence |
+| taskledger | tasks and task workflow                          |
+| archledger | architecture records and ADRs                    |
+| planledger | implementation plans                             |
+| wikimason  | wiki content                                     |
 
 ReqLedger is normative: accepted requirement records define intended product
 behavior. Source code and tests describe observed behavior but never silently
